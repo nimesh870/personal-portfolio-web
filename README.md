@@ -41,7 +41,7 @@ This ensures the layout adapts well to different devices and screen sizes.
 
 Clone the repository
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/nimesh870/personal-portfolio-web.git
 
 
 Open the project folder
@@ -67,3 +67,5 @@ Optimize performance
 🙌 Acknowledgements
 
 This project was built to practice and showcase front-end web development skills using core web technologies.
+
+Website is live at : nimeshdulal.com.np domain
